@@ -6,4 +6,4 @@ hello! this repository was created as a backup for my personal world of warcraft
 
 this UI is focused around raid healing in the retail version of WoW. it could be described as minimalistic with an emphasis on displaying all relevant and actionable information a healer would want at their disposal at a given time. if you want any more information on this UI, be sure to message me on discord: towersconnor(blue)#0117
 
-
+this repo will be organized leveraging 
